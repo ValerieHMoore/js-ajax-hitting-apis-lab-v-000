@@ -61,3 +61,4 @@ function displayBranches() {
 document.getElementById('details').innerHTML = branchList;
 }
 
+// This is a random comment typed in so my code will push to GitHub
